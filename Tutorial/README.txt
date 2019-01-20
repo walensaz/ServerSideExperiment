@@ -1,0 +1,1 @@
+This is where I primarily focused on learning how server-> client worked.  This is also where I first encountered Sockets and wanted to learn more about them.  This code did not work and that is when I started on my RTSGameServer and really started researching.  This was my first look into sockets.

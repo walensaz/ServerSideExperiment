@@ -1,0 +1,1 @@
+I started this project with friends to try to make an RTS game.  This is my second ever attempt at using Sockets to do client to server stuff, and it worked very well but took way to much work and many people quit.  Therefore I scraped the project and restarted on the new and improved way.
